@@ -11,7 +11,9 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "redux": "^3.6.0",
-    "redux-promise": "^0.5.3"
+    "redux-promise": "^0.5.3",
+	"axios":"^0.16.1",
+	"body-parser":"^1.17.1"
   },
   "scripts": {
     "start": "react-scripts start",
